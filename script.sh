@@ -4,6 +4,5 @@ b=5
 if [a == b]
 then
    echo "equals"
-   fi
 
-   
+fi
